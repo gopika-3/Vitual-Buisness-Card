@@ -36,3 +36,18 @@ Virtual-Business-Card/
 ├── profile.jpg
 ├── qr.png
 └── Resume-Gopika Gopakumar.pdf
+```
+
+## How to Run
+Clone or download this repository.
+Make sure all project files are kept in the same folder.
+Open index.html in a web browser.
+The virtual business card will be displayed.
+
+## Purpose
+
+The purpose of this project is to create a professional digital business card that provides contact information, social media profiles, a resume, and portfolio access in one convenient interface.
+
+## Author
+
+Gopika Gopakumar
